@@ -5,7 +5,7 @@ libraries{
 
 stages{
     continuous_integration{
-        deployment
-        infrastructure
+        setup_nodes
+        setup_env
     }
 }
