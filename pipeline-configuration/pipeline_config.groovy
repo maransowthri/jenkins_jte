@@ -1,6 +1,7 @@
 libraries{
     deployment
     infrastructure
+    ansible
 }
 
 stages{
